@@ -46,7 +46,7 @@ nav a:hover {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6K0i0pt6qlyq65c0vd5i8TjTi-YyGZ9rjhQ&usqp=CAU '),linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqn2Yc_ZHYnvD4vlPOdiaSvZIb5_P7DOrZAA&usqp=CAU '),linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
     background-blend-mode: overlay;
     height: 100vh;
     background-position: center center;
