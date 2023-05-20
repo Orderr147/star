@@ -1,7 +1,7 @@
 
 * {
   box-sizing: border-box;
-  color: rgb(160, 158, 158);
+  color:  #f5e7f1ce  (160, 158, 158);
 }
 
 html, body {
@@ -216,7 +216,7 @@ h1 strong{
 }
 
 .btn-danger:hover {
-  background-color:  #bf93acff ;
+  background-color: #91125aff  ;
 }
 
 .cart-quantity-input {
