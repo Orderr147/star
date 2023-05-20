@@ -216,14 +216,14 @@ h1 strong{
 }
 
 .btn-danger:hover {
-  background-color: #494558;
+  background-color:  #bf93acff ;
 }
 
 .cart-quantity-input {
   height: 34px;
   width: 50px;
   border-radius: 5px;
-  border: 1px solid #56CCF2;
+  border: 1px solid #a5055eff ;
   background-color: #eee;
   color: #333;
   padding: 0;
