@@ -15,7 +15,7 @@ h1{
   padding-top: 60px;
 }
 h1 strong{
-  color: yellow;
+  color: #f6dcf5ce ;
 }
 .nav ul {
   margin: 5px;
@@ -28,7 +28,7 @@ h1 strong{
 .nav a {
   display: inline-block;
   padding: .9em;
-  color: white;
+  color:  #f3e1e8ff ;
   text-decoration: none;
 }
 
@@ -48,7 +48,7 @@ h1 strong{
 }
 
 .main-header {
-  background-image: url("Images/defense1.jpg");
+  background-image: url("./ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSkInpAjWxHvMd1puNUUUJBREW2XOYesZYiQ&usqp=CAU ");
   background-color: rgba(0, 0, 0, .6);
   
   background-blend-mode: multiply;
@@ -106,7 +106,7 @@ h1 strong{
 
 .btn-primary {
   color: white;
-  background-color: #56CCF2;
+  background-color: #f05fd32a ;
   border: none;
   border-radius: .3em;
   font-weight: bold;
@@ -114,7 +114,7 @@ h1 strong{
 }
 
 .btn-primary:hover {
-  background-color: #34454e;
+  background-color: #f05fd32a ;
 }
 
 
